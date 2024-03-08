@@ -28,4 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app ajudar a rastrear os hábitos.
 
-- [Visite] (https://wabemusic.github.io/nlwSetup/)
+- [Visite] (https://joaowatanabe.github.io/nlwSetup/)
